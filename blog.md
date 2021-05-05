@@ -2,6 +2,8 @@
 
 ## About Me
 
+My name is michael. 
+
 ## The Premise
 
 ## Tools used
