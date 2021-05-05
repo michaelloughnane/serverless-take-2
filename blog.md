@@ -2,6 +2,8 @@
 
 ## About Me
 
+I'm michael
+
 ## The Premise
 
 ## Tools used
