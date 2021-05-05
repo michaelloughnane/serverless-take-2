@@ -2,7 +2,8 @@
 
 ## About Me
 
-I'm michael
+My name is michael. 
+
 
 ## The Premise
 
